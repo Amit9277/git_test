@@ -1,1 +1,3 @@
 Hello, World!
+
+testing the commit configuration that allows me to omit -m in the commit command.
